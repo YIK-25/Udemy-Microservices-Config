@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Udemy accounts related local QA APIs "
+  contactDetails:
+    name: "Yurii Kupchyn - QA Lead"
+    email: "yuriikupchyn@udemy.com"
+  onCallSupport:
+    - (555) 444-1234
+    - (555) 444-1345
