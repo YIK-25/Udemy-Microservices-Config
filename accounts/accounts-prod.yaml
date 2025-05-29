@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Udemy accounts related local PROD APIs "
+  message: "Welcome to Udemy accounts related local Production APIs "
   contactDetails:
-    name: "Yurii Kupchyn - PROD Lead"
+    name: "Yurii Kupchyn - Production Lead!"
     email: "yuriikupchyn@udemy.com"
   onCallSupport:
     - (444) 444-4443
