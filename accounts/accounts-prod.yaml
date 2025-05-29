@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Udemy accounts related local Production APIs "
   contactDetails:
-    name: "Yurii Kupchyn - Production Lead!"
+    name: "Yurii Kupchyn - Production Owner!"
     email: "yuriikupchyn@udemy.com"
   onCallSupport:
     - (444) 444-4443
